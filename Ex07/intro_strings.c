@@ -20,7 +20,7 @@
 
 int main()
 {
-    // 1. Here, I'm creating a character array (String) and initializing it with "CNOS"
+    // 1. Here, I'm creating a character array (String) and initializing it with "YOUNESS"
     // I'm making sure it's large enough to hold the letters plus the null terminator
     char name[10] = "YOUNESS";
 
